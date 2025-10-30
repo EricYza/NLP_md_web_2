@@ -1,5 +1,5 @@
 baseurl = "https://ericyza.github.io/NLP_md_web_2/"
-title = "arxiv.studio"
+title = "arxiv.website"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
