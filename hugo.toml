@@ -6,6 +6,8 @@ preserveTaxonomyNames = true
 hasCJKLanguage = true
 relativeURLs = true
 canonifyURLs = true
+enableRobotsTXT = true
+
 
 [services]
   # Enable comments by entering your Disqus shortname
