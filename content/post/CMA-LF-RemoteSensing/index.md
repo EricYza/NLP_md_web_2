@@ -1,5 +1,5 @@
 +++
-date = '2025-12-01T17:22:29-04:00'
+date = '2025-12-02T17:22:29-04:00'
 draft = false
 title = 'A Cross-Modality Alignment and Linear Fusion Framework for Semantic Segmentation of Multisource Remote Sensing Data'
 tags = ["AI", "NLP", "Deep Learning"]
