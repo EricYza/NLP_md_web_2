@@ -1,5 +1,5 @@
 +++
-date = '2025-12-2T17:22:29-04:00'
+date = '2025-10-13T17:22:29-04:00'
 draft = false
 title = 'Self-Adaptive 3D Multimodal Large Model with Geometry-Aware Test-Time Optimization'
 tags = ["AI", "NLP", "Deep Learning"]
