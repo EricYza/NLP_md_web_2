@@ -1,5 +1,5 @@
 +++
-date = '2025-10-13T17:22:29-04:00'
+date = '2025-12-2T17:22:29-04:00'
 draft = false
 title = 'MultiRef-CoFT: A Foresight-Focused Multi-Reference Framework for Visual-Language Reasoning'
 tags = ["AI", "NLP", "Deep Learning"]
