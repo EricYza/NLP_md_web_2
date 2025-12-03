@@ -1,5 +1,5 @@
 +++
-date = '2025-10-13T17:22:29-04:00'
+date = '2025-12-02T17:22:29-04:00'
 draft = false
 title = 'Lighting-Aware Real-Time Human–Scene Reconstruction with Pose-Conditioned Ray Fields'
 tags = ["AI", "NLP", "Deep Learning"]
